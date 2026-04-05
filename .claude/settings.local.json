@@ -8,7 +8,10 @@
       "Bash(git remote:*)",
       "Bash(pnpm --version)",
       "Bash(npm --version)",
-      "Bash(npx shadcn@latest:*)"
+      "Bash(npx shadcn@latest:*)",
+      "Bash(pnpm add:*)",
+      "Bash(pnpm build:*)",
+      "Bash(pnpm dev:*)"
     ]
   }
 }
